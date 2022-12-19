@@ -1,0 +1,8 @@
+export const PREFIX = "@rtc";
+
+export const callStates = {
+    CALL_AVAILABLE: "CALL_AVAILABLE",
+    CALL_UNAVAILABLE: "CALL_UNAVAILABLE",
+    CALL_REQUESTED: "CALL_REQUESTED",
+    CALL_IN_PROGRESS: "CALL_IN_PROGRESS",
+}
